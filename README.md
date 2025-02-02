@@ -9,6 +9,6 @@
 
 
 ## 🌟 Featured Projects  
-🚀 **ARAS[GitHub Link](https://discord.gg/dFvT9VQrtz)** – A MCBE realm automod
+🚀 **[aras](https://discord.gg/dFvT9VQrtz)** – A MCBE realm automod
 
 
