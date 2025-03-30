@@ -1,5 +1,3 @@
-<!-- Super Sigma Cool GitHub README -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&width=435&lines=Welcome+to+My+Profile!;I+Code+Like+a+Sigma!;JavaScript+%7C+TypeScript+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
 </h1>
@@ -12,11 +10,10 @@
 
 ---
 
-### 🚀 About Me:
-- 💻 **Full-Stack Developer** with a focus on **Next.js**, **Node.js**, and **TypeScript**.
-- 🎮 I run a **Minecraft Network** called **Gladiator Network**.
-- 🤖 Creator of **Ravyn**, a multipurpose **Discord bot** with over **400 commands**.
-- 🌐 Check out my projects at **[realmplus.net](https://realmplus.net)**.
+### 🚀 Projects:
+- 🌐 Realmsplus **[realmplus.net](https://realmplus.net)**.
+- 🤖 Creator of **Nexus**, a multipurpose **Discord bot** with over **400 commands**.
+
 
 ---
 
@@ -30,15 +27,14 @@
 
 ### ⚡ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,mongodb,mysql,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,mongodb,java,tailwind,git,github" />
 </p>
 
 ---
 
-### 💀 Socials:
+### Socials:
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" /></a>
-  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/yrv9tma8by"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
