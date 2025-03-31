@@ -9,6 +9,13 @@
 - 🌐 Realmsplus **[realmplus.net](https://realmplus.net)**.
 - 🤖 Creator of **Nexus**, a multipurpose **Discord bot** with over **400 commands**.
 
+---
+
+### ⚡ Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,mongodb,java,tailwind,git,github" />
+</p>
+
 
 ---
 
@@ -20,10 +27,12 @@
 
 ---
 
-### ⚡ Tech Stack:
+
+### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,mongodb,java,tailwind,git,github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
 
 ---
 
