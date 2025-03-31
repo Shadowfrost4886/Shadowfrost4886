@@ -30,7 +30,7 @@
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shadowfrost4886&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 
