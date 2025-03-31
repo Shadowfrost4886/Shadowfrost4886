@@ -13,7 +13,7 @@
 
 ### ⚡ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,mongodb,java,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,mongodb,java,tailwind,CSS,c++," />
 </p>
 
 
