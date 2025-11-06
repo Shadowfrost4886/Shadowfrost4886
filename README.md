@@ -6,8 +6,7 @@
 ---
 
 ### 🚀 Projects:
-- 🌐 Realmsplus **[realmplus.net](https://realmplus.net)**.
-- 🤖 Creator of **Nexus**, a multipurpose **Discord bot** with over **400 commands**.
+- none Currently
 
 ---
 
